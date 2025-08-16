@@ -23,7 +23,7 @@ const heroSection = () => {
               {" "}
               <Button text="Book a Ride" dark={true} />{" "}
             </a>
-            <a href="https://secura-pwa.vercel.app/">
+            <a href="https://secura-pwa.vercel.app/become-a-driver">
               {" "}
               <Button text="Become a Driver" dark={false} />{" "}
             </a>

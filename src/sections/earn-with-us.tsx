@@ -28,7 +28,10 @@ const EarnWithUs = () => {
               "Get support when you need it",
             ]}
           />
-          <Button text="Start Driving Today" dark={true} />
+          <a href="https://secura-pwa.vercel.app/become-a-driver">
+            {" "}
+            <Button text="Start Driving Today" dark={true} />{" "}
+          </a>
         </div>
         <div className="max-w-[650px] max-h-[740px]">
           <img
